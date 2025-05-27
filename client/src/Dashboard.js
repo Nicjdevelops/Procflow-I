@@ -1,0 +1,1 @@
+// Rebuild Dashboard.js to display records and file links
